@@ -1,7 +1,7 @@
 # compete13
 13th round of Coderbin Compete
 
-
+Coderbin holds competitions for developers to show off their skills and win prizes.
 
 Information
 
