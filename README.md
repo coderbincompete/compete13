@@ -17,3 +17,4 @@ Rules
 1. Any commit after the closing time will not be considered.
 2. You are allowed to answer as much questions as you can.
 3. Winners will be communicated via mail on the evening of the competition day.
+4. Each question is put in it's folder named with it's question topic and it's question allocated points; this will also be the naming convention for your answer folders.
